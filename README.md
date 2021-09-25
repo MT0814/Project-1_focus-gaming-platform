@@ -1,23 +1,5 @@
 # Project 1: Focus Gaming Site - Developed by Team 6
 
-![index.html screenshot](./assets/images/screenshot.png)
-
-[Click me for website](https://mt0814.github.io/Week5-Work-Day-Scheduler/)
-
-Published site: https://ks1.github.io/UGameOn/
-
-Please see the latest source code under "dev" branch.
-Note: "main" branch does not reflect the latest code.
-[Click me for Source code](https://github.com/KS1/UGameOn/tree/dev)
-
-![index.html screenshot](https://github.com/KS1/UGameOn/blob/dev/TeamProject1-Screenshots.pdf)
-
-[Click me for Wireframes](https://github.com/KS1/UGameOn/blob/dev/Focus%20Project%20Wireframes.pdf)
-
-[Click me for Demo Presentation](https://github.com/KS1/UGameOn/blob/dev/Focus%20Project%20Team6%20Demo%20Presentation.pdf)
-
-[Click me for jira User Stories](https://project1-ugameon.atlassian.net/jira/software/projects/UG/boards/1/backlog)
-
 ## User Story
 
 ```
@@ -89,3 +71,21 @@ As a user, I want to navigate to more pages to see more games tiles.
     VS Code, Git Bash, GitHub, GIT
 
     JIRA, Google Doc, Zoom, Slack
+
+## Others
+
+1. Focus Gaming Platform screenshot
+
+   ![index.html screenshot](./assets/images/screenshot.png)
+
+2. [Published website](https://mt0814.github.io/Project-1_focus-gaming-platform/)
+
+3. Please see the latest source code under "dev" branch.
+   Note: "main" branch does not reflect the latest code.
+   [Source code](https://github.com/KS1/UGameOn/tree/dev)
+
+4. [Wireframes](https://github.com/KS1/UGameOn/blob/dev/Focus%20Project%20Wireframes.pdf)
+
+5. [Demo Presentation](https://github.com/KS1/UGameOn/blob/dev/Focus%20Project%20Team6%20Demo%20Presentation.pdf)
+
+6. [jira User Stories](https://project1-ugameon.atlassian.net/jira/software/projects/UG/boards/1/backlog)
