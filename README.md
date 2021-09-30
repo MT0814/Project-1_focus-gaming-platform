@@ -15,7 +15,7 @@ As a user, I want to select a Pokémon game tile so that I can play the game.
 
 As a user, I want to play the Pokémon game on the site so that I can have fun. 
 
-As a user, I want to add my favorite game to the game collector box so that I can check them quickly.
+As a user, I want to add at least 10 favorite games to the game collector box so that I can check them quickly.
 
 As a user, I want to navigate to more pages to see more games tiles.
 ```
