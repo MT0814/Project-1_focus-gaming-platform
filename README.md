@@ -26,6 +26,7 @@ As a user, I want to navigate to more pages to see more games tiles.
 
 ### Acceptance Criteria 
 
+```
 As a user, I want to see tiles of games so that I can choose what I want to play.
 GIVEN tiles of games
 WHEN I go to the site
@@ -53,6 +54,7 @@ GIVEN an add icon on each game tile
 WHEN I click the add icon
 THEN it shall add that game to the game collector box
 THEN it shall let me add up to 10 lists
+```
 
 ## Html Page Layout:
 
