@@ -32,10 +32,10 @@ GIVEN tiles of games
 WHEN I go to the site
 THEN I can see all the games tiles
 
-As a user, I want to filter games’ tiles by its platform, genre, graphics, combat, gameplay, setting and tags so that I can find my specific game.
-GIVEN some filter options (platform, genre, graphics, combat, gameplay, setting and tags)
-WHEN I select either one of them or multiple filter options
-THEN it shows me a result page with the game which meets my selections
+As a user, I want to filter games’ tiles by its platform so that I can find my specific game.
+GIVEN Browser and PC platform as filter options
+WHEN I select one of the filter options
+THEN it shows me a result page with the game which meets my selection
 
 As a user, I want to select a game to play so that I can know if I like it or not.
 GIVEN all tiles can be clicked 
