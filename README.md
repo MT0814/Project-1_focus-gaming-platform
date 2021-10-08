@@ -72,6 +72,9 @@ As a user, I want to navigate to more pages to see more games tiles.
 
     JIRA, Google Doc, Zoom, Slack
 
+## License
+[![License: MIT License](https://img.shields.io/badge/License-MIT%20License-yellow.svg)](https://www.gnu.org/licenses/MIT%20License)
+
 ## Others
 
 1. Focus Gaming Platform screenshot
