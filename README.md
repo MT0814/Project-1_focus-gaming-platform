@@ -1,6 +1,10 @@
 # Project 1: Focus Gaming Site - Developed by Team 6
 
-## User Story
+## Description 
+
+A gaming platform for easily filter, sorting free games and add them into your favorite list to play them whenever you desire.
+
+### User Story
 
 ```
 As a user, I want to see tiles of games so that I can choose what I want to play.
@@ -19,6 +23,36 @@ As a user, I want to add 10 favorite games to the game collector box so that I c
 
 As a user, I want to navigate to more pages to see more games tiles.
 ```
+
+### Acceptance Criteria 
+
+As a user, I want to see tiles of games so that I can choose what I want to play.
+GIVEN tiles of games
+WHEN I go to the site
+THEN I can see all the games tiles
+
+As a user, I want to filter games’ tiles by its platform, genre, graphics, combat, gameplay, setting and tags so that I can find my specific game.
+GIVEN some filter options (platform, genre, graphics, combat, gameplay, setting and tags)
+WHEN I select either one of them or multiple filter options
+THEN it shows me a result page with the game which meets my selections
+
+As a user, I want to select a game to play so that I can know if I like it or not.
+GIVEN all tiles can be clicked 
+WHEN I click a tile of game
+THEN it shows me the selected game page
+THEN I can click the play button to play the game
+
+As a user, I want to select a Pokémon game tile so that I can play the game.
+As a user, I want to play the Pokémon game on the site so that I can have fun. 
+GIVEN me a Pokémon game tile 
+WHEN I click it
+THEN it directs me to Pokémon game site
+
+As a user, I want to add 10 favorite game to the game collector box so that I can check them quickly.
+GIVEN an add icon on each game tile
+WHEN I click the add icon
+THEN it shall add that game to the game collector box
+THEN it shall let me add up to 10 lists
 
 ## Html Page Layout:
 
