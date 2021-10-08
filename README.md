@@ -32,6 +32,11 @@ GIVEN tiles of games
 WHEN I go to the site
 THEN I can see all the games tiles
 
+As a user, I want to sort games’ tiles by alphabetical titles and release date.
+GIVEN alphabetical and release date as sorting options
+WHEN I select one of the sorting options
+THEN it shows me a result page with the game which meets my selection
+
 As a user, I want to filter games’ tiles by its platform so that I can find my specific game.
 GIVEN Browser and PC platform as filter options
 WHEN I select one of the filter options
@@ -54,6 +59,12 @@ GIVEN an add icon on each game tile
 WHEN I click the add icon
 THEN it shall add that game to the game collector box
 THEN it shall let me add up to 10 lists
+
+
+As a user, I want to navigate to more pages to see more games tiles.
+GIVEN pagination 
+WHEN I click the page number
+THEN it shall bring me to that page
 ```
 
 ## Html Page Layout:
